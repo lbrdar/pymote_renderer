@@ -1,4 +1,7 @@
 const styles = {
+  root: {
+    backgroundColor: 'white'
+  },
   content: {
     padding: '10px'
   },

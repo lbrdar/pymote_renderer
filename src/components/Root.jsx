@@ -63,7 +63,7 @@ export default class Root extends React.Component {
 
     return (
       <MuiThemeProvider>
-        <div>
+        <div style={styles.root}>
           <AppBar
             title="Simulation results"
             showMenuIconButton={false}

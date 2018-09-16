@@ -10,7 +10,7 @@
     "noUnusedLocals": true,
     "outDir": "./lib",
     "target": "es2015",
-    "strict": true,
+    "strict": true
   },
   "include": ["src/**/*"]
 }

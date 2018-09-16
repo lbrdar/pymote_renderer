@@ -69,7 +69,7 @@ const extension: IRenderMime.IExtension = {
     }
   ],
   documentWidgetFactoryOptions: {
-    name: 'Pymote Viewer',
+    name: 'PymoteViewer',
     primaryFileType: 'pymote',
     fileTypes: ['pymote'],
     defaultFor: ['pymote']
